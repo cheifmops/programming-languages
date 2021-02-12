@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Описание](README.md)
+* [Java](java.md)
 
